@@ -15,7 +15,7 @@ Before running this application, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/enniob/nodejsapollographql.git```
+```git clone https://github.com/mhaddaou/express-with-graphql.git```
 
 2. Navigate to the project directory:
 ```cd nodejsapollographql```
@@ -29,7 +29,7 @@ Before running this application, make sure you have the following installed:
 ```npm start```
 
 
-This will start the GraphQL server on `http://localhost:4000`.
+This will start the GraphQL server on `http://localhost:4000/graphql`.
 
 2. Access the GraphQL playground in your web browser:
-```http://localhost:4000```
+```http://localhost:4000/graphql```
