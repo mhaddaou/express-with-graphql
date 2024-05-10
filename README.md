@@ -18,7 +18,7 @@ Before running this application, make sure you have the following installed:
 ```git clone https://github.com/mhaddaou/express-with-graphql.git```
 
 2. Navigate to the project directory:
-```cd nodejsapollographql```
+```cd express-with-graphql```
 
 3. Install dependencies:
 ```npm install```
